@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/raluru/Downloads/jan27_robotium/Buggynight_robotium/YoutubeTestActivityTest/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/raluru/Downloads/jan27_robotium/Buggynight_robotium/YoutubeTestActivityTest/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zhichao/Downloads/Buggynight_robotium/YoutubeTestActivityTest/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/zhichao/Downloads/Buggynight_robotium/YoutubeTestActivityTest/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zhichao/workspace/Buggynight_robotium/YoutubeTestActivityTest/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/zhichao/workspace/Buggynight_robotium/YoutubeTestActivityTest/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/raluru/Downloads/jan27_robotium/ExampleTestProject_AndroidStudio_v5.5.1/YoutubeTestActivityTest/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/raluru/Downloads/jan27_robotium/ExampleTestProject_AndroidStudio_v5.5.1/YoutubeTestActivityTest/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]

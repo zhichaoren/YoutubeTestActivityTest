@@ -1,0 +1,98 @@
+[
+    {
+        "outputFile": "/Users/zhichao/workspace/Buggynight_robotium/YoutubeTestActivityTest/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 56,
+                    "endOffset": 107
+                },
+                "from": {
+                    "file": "/Users/zhichao/workspace/Buggynight_robotium/YoutubeTestActivityTest/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 56,
+                        "endOffset": 107
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/zhichao/Downloads/Buggynight_robotium/YoutubeTestActivityTest/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 56,
+                    "endOffset": 107
+                },
+                "from": {
+                    "file": "/Users/zhichao/Downloads/Buggynight_robotium/YoutubeTestActivityTest/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 56,
+                        "endOffset": 107
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/raluru/Downloads/jan27_robotium/ExampleTestProject_AndroidStudio_v5.5.1/YoutubeTestActivityTest/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 56,
+                    "endOffset": 107
+                },
+                "from": {
+                    "file": "/Users/raluru/Downloads/jan27_robotium/ExampleTestProject_AndroidStudio_v5.5.1/YoutubeTestActivityTest/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 56,
+                        "endOffset": 107
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/raluru/Downloads/jan27_robotium/Buggynight_robotium/YoutubeTestActivityTest/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 56,
+                    "endOffset": 107
+                },
+                "from": {
+                    "file": "/Users/raluru/Downloads/jan27_robotium/Buggynight_robotium/YoutubeTestActivityTest/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 56,
+                        "endOffset": 107
+                    }
+                }
+            }
+        ]
+    }
+]

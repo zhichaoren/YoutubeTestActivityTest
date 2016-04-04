@@ -4,6 +4,10 @@
         "source": "/Users/zhichao/Downloads/Buggynight_robotium/YoutubeTestActivityTest/src/main/res/layout/main.xml"
     },
     {
+        "merged": "/Users/zhichao/workspace/Github/Robotium + Appurify test/Buggynight_robotium/YoutubeTestActivityTest/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/zhichao/workspace/Github/Robotium + Appurify test/Buggynight_robotium/YoutubeTestActivityTest/src/main/res/layout/main.xml"
+    },
+    {
         "merged": "/Users/raluru/Downloads/jan27_robotium/Buggynight_robotium/YoutubeTestActivityTest/build/intermediates/res/merged/debug/layout/main.xml",
         "source": "/Users/raluru/Downloads/jan27_robotium/Buggynight_robotium/YoutubeTestActivityTest/src/main/res/layout/main.xml"
     },

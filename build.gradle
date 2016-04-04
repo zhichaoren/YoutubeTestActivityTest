@@ -53,7 +53,7 @@ android {
 task assembleDebug(overwrite: true) {}
 
 task copyTask(type: Copy) {
-    from '/Users/raluru/Downloads/YoutubeTest-debug_debug.apk'
+    from '/Users/zhichao/Downloads/YoutubeTest-debug_debug.apk'
     into 'build/outputs/apk/'
     rename {
         'YoutubeTestActivityTest-debug.apk'
